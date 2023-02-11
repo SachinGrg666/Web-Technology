@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat;
+    background-color: #ffba00;
+    text-align: center;
+}
+.head{
+    border: 3px solid transparent;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    line-height: 40px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-weight: 700;
+}
+.abr{
+    border: 3px solid transparent;
+}
+.diy{
+    border: 3px solid transparent;
+}
+.nak{
+    border: 3px solid transparent;
+}
+img{
+    height: 500px;
+    width: 450px;
+}

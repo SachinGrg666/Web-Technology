@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    font-family: 'Poppins';
+    margin: 10px;
+  }
+  body{
+    /* background-image: url("Clash\ Royale.jpg"); */
+    background: linear-gradient(to left, red, green, yellow, violet, pink, purple);
+    background-position: center;
+    background-attachment: fixed;
+    background-clip: cover;
+  }
+  /* 
+  #head{
+    background-color: rgb(101, 241, 241);
+      color: rgb(24, 24, 23);
+      font-size: 60px;
+  }
+  #box1{
+    border-style: "dashed";
+    background-color: rgb(4, 69, 69);
+    color: antiquewhite;
+    font-size: 50px;
+    padding: 5px;
+  }
+  #box2{
+
+        border-style: dotted;
+        width: 250px;
+        height: 250px;
+        padding: 5px;
+      background-color: aqua;
+      color: black;
+      font-size: auto;
+      font-style: italic;
+  }
+  #box3{
+    border-style: hidden;
+    width: 250px;
+    height: 250px;
+    padding: 5px;
+      background-color: rgb(240, 127, 5);
+      color: black;
+      font-weight: bold;
+      font-size: auto;
+  } */
